@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  margin-top: 15%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 5rem;
+  color: aliceblue;
+  letter-spacing: 3px;
+}
+.div{
+  background-color: #4d4d4d;
+  padding: 3%;
+}
